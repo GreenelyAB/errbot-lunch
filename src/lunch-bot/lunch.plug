@@ -6,4 +6,4 @@ Module = lunch
 Description = Lunch selector bot
 
 [Python]
-Version = 1
+Version = 3
