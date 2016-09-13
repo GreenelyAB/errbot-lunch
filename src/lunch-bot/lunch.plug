@@ -1,0 +1,9 @@
+[Core]
+Name = Lunch
+Module = lunch
+
+[Documentation]
+Description = Lunch selector bot
+
+[Python]
+Version = 1
